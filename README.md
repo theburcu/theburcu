@@ -1,8 +1,8 @@
 ### Bip Bop 👋 I'm Burcu!
 
-- 👾 My name is Burcu and I'm a computer engineering currently specializing on Full-Stack Development and Data Engineering.
+- 👾 My name is Burcu and I'm a computer engineer currently specializing on Full-Stack Development and Data Engineering.
 - 🤖 I love scripting languages.
-- 🔭 I’m currently working on a web app as a scalable project. This repository is currently private.
+- 🔭 I’m currently working on a web app as a scalable project. This repository is private for now.
 - 👯 I’m looking to collaborate on public projects as well as private ones.
 
 [![](https://visitcount.itsvg.in/api?id=theburcu&label=Profile%20Views&color=9&pretty=true)](https://visitcount.itsvg.in)
