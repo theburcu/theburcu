@@ -3,11 +3,11 @@
 - 👾 I'm a Computer Engineering currently specializing on Full-Stack Development and Data Engineering.
 - 🔭 I’m currently working on a web app as a scalable project.
 - 👯 I’m looking to collaborate on public projects as well as private ones.
+<!--
+### Top Languages
 
-### Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=theburcu&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
+ [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=theburcu)](https://github.com/theburcu/github-readme-stats)
+-->
+ 
 ### StackOverflow
-
-[![Burcu StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5898685)](https://stackoverflow.com/users/5898685/burcu)
+[![Burcu's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5898685)](https://stackoverflow.com/users/5898685/burcu)
