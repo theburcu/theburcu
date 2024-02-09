@@ -1,6 +1,7 @@
-### Hi there 👋 I'm Burcu!
+### Bip Bop 👋 I'm Burcu!
 
-- 👾 I'm a Computer Engineering currently specializing on Full-Stack Development and Data Engineering.
+- 👾 My name is Burcu and I'm a computer engineering currently specializing on Full-Stack Development and Data Engineering.
+- 🤖 I love scripting languages.
 - 🔭 I’m currently working on a web app as a scalable project.
 - 👯 I’m looking to collaborate on public projects as well as private ones.
 
