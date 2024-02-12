@@ -9,7 +9,7 @@
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theburcu&layout=donut)](https://github.com/theburcu/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theburcu&layout=donut)]
 
 ### StackOverflow
 [![Burcu's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5898685)](https://stackoverflow.com/users/5898685/burcu)
